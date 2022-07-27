@@ -105,5 +105,5 @@ mysql> select*from mysql;
 +-------+-------------+-------+------------+
 6 rows in set (0.00 sec)
 
-mysql> 
+mysql> drop table mysql;
 
