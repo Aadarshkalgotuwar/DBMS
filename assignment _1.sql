@@ -1,5 +1,5 @@
 mysql> create database aadarsh;
-ERROR 1007 (HY000): Can't create database 'aadarsh'; database exists
+
 mysql> create database assignment;
 Query OK, 1 row affected (0.00 sec)
 
